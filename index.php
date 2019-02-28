@@ -84,6 +84,7 @@ Contando con una cobertura a nivel Nacional y gran red de Centros de distribuci√
             width: 160px;
         }
 
+      
         .banner1 {
             display: none;
         }
